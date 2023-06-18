@@ -22,4 +22,5 @@ app.use('/api/etapa',etapa)
 app.use('/api/universidad',universidad)
 app.use('/api/proyectos', proyecto)
 
+
 module.exports = app
